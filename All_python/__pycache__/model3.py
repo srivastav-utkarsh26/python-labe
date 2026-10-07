@@ -6,5 +6,5 @@ engine = pyttsx3.init()
 engine.setProperty('rate', 150)
 engine.setProperty('volume', 0.9)
 
-engine.say("Hello! akshat Bhosadiwallae")
+engine.say("Hello! github is a platform for version control and collaboration. It lets you and others work together on projects from anywhere.")
 engine.runAndWait()   

@@ -1,0 +1,12 @@
+l1 = ['apple', 'mango', 'grapes', 'banana', 'orange']
+print(l1)
+print(l1.count('mango'))
+print(l1.append('kiwi'))
+print(l1)
+print(l1.reverse())
+print(l1)
+print(l1.insert(2, 'pineapple'))
+print(l1)
+print(l1.pop(1))
+print(l1.remove('banana'))
+print(l1)
